@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards on My iGEM Team Site</title>
+    <link>http://example.org/awards/</link>
+    <description>Recent content in Awards on My iGEM Team Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/awards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>http://example.org/awards/_entrepreneurship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/awards/_entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>http://example.org/awards/_hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/awards/_hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement</title>
+      <link>http://example.org/awards/_measurement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/awards/_measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Your Project</title>
+      <link>http://example.org/awards/model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/awards/model/</guid>
+      <description>Modern computational methods provide invaluable tools for biological research. In this year&amp;rsquo;s iGEM project we focused on two powerful methods to aid us in the whole process of designing our constructs. On one hand, we conducted molecular simulations of peptide linkers for improved protein characteristics, while on the other hand establishing an artificial neural network to pro-actively detect potential allergenic protein sequences.
+Molecular dynamics simulations Why we simulated Over the last decades biological research has revealed more and more complex features of living systems.</description>
+    </item>
+    
+    <item>
+      <title>Plant</title>
+      <link>http://example.org/awards/_plant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/awards/_plant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://example.org/awards/_software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/awards/_software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
