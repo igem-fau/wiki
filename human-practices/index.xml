@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Human-practices on My iGEM Team Site</title>
-    <link>http://example.org/human-practices/</link>
-    <description>Recent content in Human-practices on My iGEM Team Site</description>
+    <title>Human-practices on iGEM Erlangen</title>
+    <link>https://igemmeetup.com/wiki/human-practices/</link>
+    <description>Recent content in Human-practices on iGEM Erlangen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/human-practices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://igemmeetup.com/wiki/human-practices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Education &amp; Engagement</title>
-      <link>http://example.org/human-practices/education-engagement/</link>
+      <link>https://igemmeetup.com/wiki/human-practices/education-engagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/human-practices/education-engagement/</guid>
+      <guid>https://igemmeetup.com/wiki/human-practices/education-engagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Practices</title>
-      <link>http://example.org/human-practices/human-practices/</link>
+      <link>https://igemmeetup.com/wiki/human-practices/human-practices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/human-practices/human-practices/</guid>
+      <guid>https://igemmeetup.com/wiki/human-practices/human-practices/</guid>
       <description>Integrated Human Practice Besides all the work in the lab during our project we also faced the important task to involve the influence of society in our work. Our integrated human practice work included to inform ourselves about the possibilities of cancer prevention, discussions with the public at certain events and the exchange with experts in our field of research about our project, followed by the integration of their proposals into it.</description>
     </item>
     

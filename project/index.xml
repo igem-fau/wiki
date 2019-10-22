@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on My iGEM Team Site</title>
-    <link>http://example.org/project/</link>
-    <description>Recent content in Projects on My iGEM Team Site</description>
+    <title>Projects on iGEM Erlangen</title>
+    <link>https://igemmeetup.com/wiki/project/</link>
+    <description>Recent content in Projects on iGEM Erlangen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://igemmeetup.com/wiki/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contribution</title>
-      <link>http://example.org/project/contribution/</link>
+      <link>https://igemmeetup.com/wiki/project/contribution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/contribution/</guid>
+      <guid>https://igemmeetup.com/wiki/project/contribution/</guid>
       <description>For the measurement, we chose the Part BBa_E0020, which is an engineered cyan fluorescent protein (CFP) derived from A. victoria GFP designed by Caitlin Conboy and Jennifer Braff. We performed the cloning with the restriction enzymes XbaI and EcoRI into the vector pUC19. CFP was under control of the lac promotor and the lac operator. For the amplification, the cloned plasmid was transformed by heat shock into the E.coli cloning strain DH5α.</description>
     </item>
     
     <item>
       <title>Demonstrate</title>
-      <link>http://example.org/project/demonstrate/</link>
+      <link>https://igemmeetup.com/wiki/project/demonstrate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/demonstrate/</guid>
+      <guid>https://igemmeetup.com/wiki/project/demonstrate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>http://example.org/project/design/</link>
+      <link>https://igemmeetup.com/wiki/project/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/design/</guid>
+      <guid>https://igemmeetup.com/wiki/project/design/</guid>
       <description>The aim of the project was to create different variants of bispecific antibodies. For this in total seven different constructs were designed and modified to fit into different vectors and expressions systems. In order to get a better hold of which of these constructs belongs to one another in order to create a functional bispecific antibody the names go as follows:
  Construct 1 (K1): Codes for a whole bispecific T cell engager.</description>
     </item>
     
     <item>
       <title>Experiments</title>
-      <link>http://example.org/project/experiments/</link>
+      <link>https://igemmeetup.com/wiki/project/experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/experiments/</guid>
+      <guid>https://igemmeetup.com/wiki/project/experiments/</guid>
       <description>The following protocols cover our methods used for cloning, cell culture, protein analysis, and measurement.
 Puring gels Puring gels:
 Why did we choose this method?
@@ -56,28 +56,28 @@ Resolving Gel:
     
     <item>
       <title>Improve</title>
-      <link>http://example.org/project/_improve/</link>
+      <link>https://igemmeetup.com/wiki/project/_improve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/_improve/</guid>
+      <guid>https://igemmeetup.com/wiki/project/_improve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Inspiration and Description</title>
-      <link>http://example.org/project/description/</link>
+      <link>https://igemmeetup.com/wiki/project/description/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/description/</guid>
+      <guid>https://igemmeetup.com/wiki/project/description/</guid>
       <description>How it came about: Our fascination for Antibody Engineering and Modularity Our kick-off weekend  In order to find a project idea, our student leaders organised a kickstart week-end. It didn’t take long for the students of the special masters course in? Integrated immunology to excite the other students to face the challenges and potential immunology has to offer synthetic biologists. The Bispecific T-cell engager (BiTE) caught our fascination as a modular construct and served as inspiration for creating a similar Bispecific Antibody (BsAb).</description>
     </item>
     
     <item>
       <title>Results</title>
-      <link>http://example.org/project/results/</link>
+      <link>https://igemmeetup.com/wiki/project/results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project/results/</guid>
+      <guid>https://igemmeetup.com/wiki/project/results/</guid>
       <description>Molecular Dynamics Simulations The MD-simulations of the two linker types showed the average end-to-end distance of each considered linker. The results provide two interest insights. First, for every motif repeat n, the (EA3K)n linker always possessed a longer average end-to-end distance than the according (G4S)n (Fig 1).
  Figure 1a
 : Length distribution of the (G4S)n linker.    Figure 1b

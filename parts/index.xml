@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parts on My iGEM Team Site</title>
-    <link>http://example.org/parts/</link>
-    <description>Recent content in Parts on My iGEM Team Site</description>
+    <title>Parts on iGEM Erlangen</title>
+    <link>https://igemmeetup.com/wiki/parts/</link>
+    <description>Recent content in Parts on iGEM Erlangen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/parts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://igemmeetup.com/wiki/parts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Basic Parts</title>
-      <link>http://example.org/parts/basic/</link>
+      <link>https://igemmeetup.com/wiki/parts/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/parts/basic/</guid>
+      <guid>https://igemmeetup.com/wiki/parts/basic/</guid>
       <description>For the basic parts, components for the creation of bispecific antibodies for expression in E.coli and HEK 293T cells were provided.
 Linker sequences All the flexible linker are composed of small, non-polar (Glycine) and polar (Serine) amino acids. The Gly4Ser linker is one of the most widely used flexible linker that can sustain the bioactivity of fusion proteins. The distinct linker differ in the copy number of GGGGS, resulting in different bioactivities of the fusion proteins.</description>
     </item>
     
     <item>
       <title>Composite Parts</title>
-      <link>http://example.org/parts/composite/</link>
+      <link>https://igemmeetup.com/wiki/parts/composite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/parts/composite/</guid>
+      <guid>https://igemmeetup.com/wiki/parts/composite/</guid>
       <description>We, as the iGEM team FAU_Erlangen aim to create bispecific antibodies. Therefore we created six composite parts for the expression in eukaryotic and prokaryotic cells. The parts include the sequence for a complete bispecific antibody and two constructs with either SpyTag or SpyCatcher sequence attached to build a comparable bispecific antibody, but with the possibility to create a modular system for bispecific antibodies supported by our simulations prior to construct design.</description>
     </item>
     
     <item>
       <title>Parts Overview</title>
-      <link>http://example.org/parts/overview/</link>
+      <link>https://igemmeetup.com/wiki/parts/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/parts/overview/</guid>
+      <guid>https://igemmeetup.com/wiki/parts/overview/</guid>
       <description>The Team FAU_Erlangen 2019 added 26 parts to the Parts Registry of iGEM. All of the parts were part of the project, dealing with the creation of different varieties of antibody constructs. The main focus was the creation of bispecific antibodies fused by flexible linkers and by the so called SpyTag/SpyCatcher system. A special property of the SpyTag/SpyCatcher system is the linkage of distinct molecules by an isopeptide bond establishing a basis for a modular system.</description>
     </item>
     
     <item>
       <title>Project Collection</title>
-      <link>http://example.org/parts/collection/</link>
+      <link>https://igemmeetup.com/wiki/parts/collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/parts/collection/</guid>
+      <guid>https://igemmeetup.com/wiki/parts/collection/</guid>
       <description>The iGEM Team FAU_Erlangen 2019 created a part collection with all components to create different varieties of bispecific antibodies against the targets GPA33 on colon cancer and CD3 on T cells for eukaryotic and prokaryotic protein expression. The part collection consists of 21 parts ranging from BBa_K3117004 to BBa_K3117041.
 The part collection of the team Erlangen is a toolbox to design a single chain fragment (scFv) bispecific antibody for eukaryotic and prokaryotic expression and a scFv bispecific antibody with the Tag and Catcher system as linker for eukaryotic and prokaryotic expression.</description>
     </item>
